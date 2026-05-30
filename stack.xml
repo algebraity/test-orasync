@@ -1,1 +1,7 @@
-<image w="221" h="260"><stack><layer src="data/000.png" name="Text Layer" x="150" y="125" opacity="1.0" visibility="visible" composite-op="svg:src-over" /><layer src="data/001.png" name="test" x="69" y="161" opacity="1.0" visibility="visible" composite-op="svg:src-over" /><layer src="data/002.png" name="final_image.png" x="0" y="0" opacity="1.0" visibility="visible" composite-op="svg:src-over" selected="true" /></stack></image>
+<image h="260" version="0.0.1" w="221" xres="75" yres="75">
+ <stack composite-op="svg:src-over" isolation="isolate" name="" opacity="1" visibility="visible" x="0" y="0">
+  <layer composite-op="svg:src-over" name="Text Layer" opacity="1" src="data/layer2.png" visibility="visible" x="0" y="0"/>
+  <layer composite-op="svg:src-over" name="test" opacity="1" src="data/layer1.png" visibility="visible" x="69" y="161"/>
+  <layer composite-op="svg:src-over" name="final_image.png" opacity="1" selected="true" src="data/layer0.png" visibility="visible" x="0" y="0"/>
+ </stack>
+</image>
