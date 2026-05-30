@@ -1,1 +1,1 @@
-<image w="221" h="260"><stack><layer src="data/000.png" name="final_image.png" x="0" y="0" opacity="1.0" visibility="visible" composite-op="svg:src-over" selected="true" /></stack></image>
+<image w="221" h="260"><stack><layer src="data/000.png" name="test" x="114" y="167" opacity="1.0" visibility="visible" composite-op="svg:src-over" selected="true" /><layer src="data/001.png" name="final_image.png" x="0" y="0" opacity="1.0" visibility="visible" composite-op="svg:src-over" /></stack></image>
